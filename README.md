@@ -15,4 +15,4 @@ while True:
      time.sleep(0.5)  
      import board  
 
-![](P1.jpg)
+![](P1.png)
